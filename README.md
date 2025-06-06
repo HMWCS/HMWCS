@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**HMWCS/HMWCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer & AI Researcher with a passion for building intelligent systems and scalable applications.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **MS Computer Science** (AI Specialization)
+- **BS Computer Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Backend:** Java, Spring Boot, Python, PostgreSQL  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/UI  
+**AI/ML:** Python, PyTorch, Scikit-learn, Pandas  
+**Tools:** Docker, Git, Maven, pnpm
+
+## 🔬 Research Interests
+- Artificial Intelligence & Machine Learning
+- Algorithm Optimization
+- Distributed Systems & Microservices Architecture
+
+## 🎹 Beyond Code
+Concert classical pianist with conservatory training, blending technical precision with creative expression.
+
+---
+*Building the future through code and algorithms* 🚀
