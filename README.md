@@ -7,9 +7,9 @@ Full-Stack Software Engineer & AI Researcher with a passion for building intelli
 - **BS Computer Science**
 
 ## 💻 Tech Stack
-**AI/ML:** Python, PyTorch, Scikit-learn, Pandas
+**AI/ML:** Python, PyTorch, Scikit-learn, Pandas  
 **Backend:** Java, Spring Boot, Python, PostgreSQL  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/UI
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/UI  
 **Tools:** Docker, Git, Maven, Conda, pnpm
 
 ## 🔬 Research Interests
